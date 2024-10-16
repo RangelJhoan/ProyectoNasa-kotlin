@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ProyectoNasa</string>
+    <string name="detail">Detail</string>
+    <string name="explore">Explore</string>
+    <string name="header_nasa_icon">Header NASA Icon</string>
+    <string name="image_to_be_detailed">Image To Be Detailed</string>
+    <string name="title">Title</string>
+    <string name="date">Date</string>
+    <string name="explanation">Explanation</string>
+    <string name="home">Home</string>
+    <string name="today_image">Today Image</string>
+    <string name="view">View</string>
+    <string name="last_5_days">Last 5 Days</string>
+</resources>
